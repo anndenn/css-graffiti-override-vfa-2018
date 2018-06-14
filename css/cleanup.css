@@ -24,25 +24,3 @@ div + div {
 }
 body ~ div {
   display:none;
-}
-#tag-2 {
-  display:none;
-}
-#wall #tag-2 {
-  display:none;
-}
-#tag-3 .slick wicked {
-  display:none;
-} 
-#tag-4 {
-  display:none;
-}
-#tag-5 {
-  display:none;
-}
-#tag-6 {
-  display:none;
-}
-#tag-7 {
-  display:none;
-}
