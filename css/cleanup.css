@@ -10,7 +10,7 @@ dive#wall #tag-3.slick.wicked {
 #wall .parent #tag-4 {
   display:none;
 }
-
+div#wall div.parent 
 div + div {
   display:none;
 }
